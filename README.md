@@ -19,14 +19,14 @@ You can install the necessary packages using pip:
 
 ```bash
 pip install psutil
-
+```
 ## Usage
 
 - Run the application using the following command:
 
 ```bash
 python main.py
-
+```
 ## How to Use
 
 - Click the "Update Connections" button to refresh the list of active network connections.
