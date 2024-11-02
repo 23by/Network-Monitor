@@ -1,7 +1,7 @@
 # NetworkMonitor
 
 ## Overview
-**NetworkMonitor** is a Python-based application that allows users to monitor their network connections and bandwidth usage. With a sleek dark-themed interface, users can view active connections, their associated processes, and track upload and download speeds in real time. The application also features a context menu for easy copying of connection details.
+**NetworkMonitor** is a Python-based application that allows users to monitor their network connections and bandwidth usage. users can view active connections, their associated processes, and track upload and download speeds in real time. The application also features a context menu for easy copying of connection details.
 
 ## Features
 - **View Active Network Connections**: Displays a list of current connections along with details such as PID, process name, local and remote addresses, and connection status.
