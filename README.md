@@ -7,7 +7,6 @@
 - **View Active Network Connections**: Displays a list of current connections along with details such as PID, process name, local and remote addresses, and connection status.
 - **Real-time Bandwidth Monitoring**: Tracks upload and download speeds and displays them in the user interface.
 - **Copy Functionality**: Right-click on any connection entry to copy details such as PID, process name, local address, remote address, and status to the clipboard.
-- **Dark Theme**: An aesthetically pleasing dark interface for a modern look and better visibility.
 
 ## Requirements
 To run this project, ensure you have the following installed:
